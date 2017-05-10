@@ -1,5 +1,5 @@
-var text = ('Papugi kosza trawe, unoszac sie nad ziemia 15 centymetrow, na czerwonych dywanach.');
-var animal = ('Zielone slonie');
+var text = ('Papugi koszą trawę, unosząc się nad ziemią 15 centymetrów, na czerwonych dywanach.');
+var animal = ('Zielone słonie');
 var animal = animal.toUpperCase();
 console.log (animal); 
 
